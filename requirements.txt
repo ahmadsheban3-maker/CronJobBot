@@ -1,5 +1,8 @@
 discord.py
 transformers
+timm
+torchvision
 torch --index-url https://download.pytorch.org/whl/cpu
 pillow
 requests
+flask
